@@ -1,0 +1,31 @@
+body {
+    color: white;
+}
+.header {
+    text-align: center;
+    background-color: #FACEC9;
+}
+.nav {
+    text-align: center;
+    padding: 20px ;
+    background-color: #FAEFC9;
+    
+    
+}
+.main {
+    background-color: #C9FACC;
+    padding: 20px 40px;
+}
+.article {
+    background-color: #6FD2F4;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.footer {
+    background-color: #F1B2FF;
+    padding: 20px 0;
+}
+.footer__header {
+    text-align: center;
+    font-size: 15px 40px;
+}
